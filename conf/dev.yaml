@@ -1,0 +1,10 @@
+db_house:
+  username: "root"
+  password: "password"
+  host: "host"
+  port: "port"
+  dbname: house
+  ext: "charset=utf8&timeout=90s&collation=utf8mb4_unicode_ci&parseTime=true"
+wxsdk:
+  wx_app_id: appid
+  wx_app_secret: appsecret
